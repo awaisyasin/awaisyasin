@@ -1,43 +1,62 @@
-![MasterHead](https://i.pinimg.com/originals/da/c8/9b/dac89b3a99c802aee636a7e78bfcae18.gif)
+![MasterHead](https://github.com/awaisyasin/awaisyasin/blob/main/Awais%20Yasin.gif)
 
+<h3 align="left"> Who I Am</h3>
 
+<p align="left">Hi <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm <b>Awais Yasin</b></p>
+<p align="left">I love Python and JS seems to be my new love</p>
+<p align="left"> <img alt="Website" src="https://img.shields.io/website?up_message=up&up_color=green&down_message=down&down_color=red&url=https%3A%2F%2Fawaisyasin.com&style=plastic&logo=internetexplorer&logoColor=white&labelColor=grey&link=awaisyasin.com"> </p>
 
-<h1 align="center">Hi <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm Awais Yasin</h1>
-<h3 align="center">I love Python and JS seems to be my new love</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/17/21/a2/1721a27695be209d7f3469a95153d368.gif">
+<h3 align="left"> What I Do</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisyasin&label=Profile%20views&color=0e75b6&style=flat" alt="awaisyasin" /> </p>
+- I’m currently working on **Desktop app development using Python**
 
-<p align="left"> <a href="https://twitter.com/awaisyasinco" target="blank"><img src="https://img.shields.io/twitter/follow/awaisyasinco?logo=twitter&style=for-the-badge" alt="awaisyasinco" /></a> </p>
+- I’m currently learning **Advanced Python features and libraries**
 
-- 🔭 I’m currently working on **Desktop app development using Python**
+- I’m looking to collaborate on **Open source Python projects**
 
-- 🌱 I’m currently learning **Advanced Python features and libraries**
+- All of my projects are available at **[awaisyasin.com](https://awaisyasin.com)**
 
-- 👯 I’m looking to collaborate on **Open source Python projects**
+- Ask me about **Python, JS, ML, AI**
 
-- 👨‍💻 All of my projects are available at [awaisyasin.com](awaisyasin.com)
+- Reach me at **hello@awaisyasin.com**
 
-- 💬 Ask me about **Python, JS, ML, AI**
+- Fun fact **I am night owl and do my best coding work late at night**
 
-- 📫 How to reach me **hello@awaisyasin.com**
+<h3 align="left"> My Social Profiles</h3>
 
-- ⚡ Fun fact **I am night owl and do my best coding work late at night**
-
-<h3 align="left">Connect with me:</h3>
+ <p align="left">
+   <img src="https://img.shields.io/badge/Facebook-Profile-3b5998.svg?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/awaisyasin.co/&color=0084ff&labelColor=3b5998">
+   <img src="https://img.shields.io/twitter/follow/awaisyasinco?style=plastic&logo=twitter&logoColor=white&color=1DA1F2&labelColor=1DA1F2">
+   <img src="https://img.shields.io/twitter/follow/awaisyasinco?label=Followers&logo=twitter&style=plastic">
+   <img src="https://img.shields.io/badge/Instagram-Profile-E4405F.svg?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/awaisyasin.co/">
+   <img src="https://img.shields.io/badge/Telegram-Profile-26A5E4.svg?style=plastic&logo=telegram&logoColor=white&link=https://t.me/awsisyasin">
+   <img src="https://img.shields.io/badge/Discord-Profile-7289DA.svg?style=plastic&logo=discord&logoColor=white&link=https://discordapp.com/users/awaisyasin">
+  </p>
+   
+<h3 align="left"> My Professional Profiles</h3>
 <p align="left">
-<a href="https://twitter.com/awaisyasinco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awaisyasinco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/awaisyasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awaisyasin" height="30" width="40" /></a>
-<a href="https://fb.com/awaisyasin.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awaisyasin.co" height="30" width="40" /></a>
-<a href="https://instagram.com/awaisyasin.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awaisyasin.co" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/awaisyasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="awaisyasin" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5.svg?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/awaisyasin/">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866.svg?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/awaisyasin">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717.svg?style=plastic&logo=github&logoColor=white&link=https://github.com/awaisyasin">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025.svg?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/your_user_id/your_username">
+   <img src="https://img.shields.io/badge/Behance-Profile-0057FF.svg?style=plastic&logo=behance&logoColor=white&link=https://www.behance.net/your_username">
+   <img src="https://img.shields.io/badge/Dribbble-Profile-EA4C89.svg?style=plastic&logo=dribbble&logoColor=white&link=https://dribbble.com/your_username">
+   <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF.svg?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/your_username">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+<h3 align="left"> Languages and Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-70%25-092E20?style=plastic&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-100%25-E34F26?style=plastic&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-95%25-0769AD?style=plastic&logo=jquery&logoColor=white">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaisyasin&show_icons=true&locale=en&layout=compact" alt="awaisyasin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaisyasin&show_icons=true&locale=en" alt="awaisyasin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisyasin&" alt="awaisyasin" /></p>
+<h3 align="left"> Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1.57-007ACC?style=plastic&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/QT-5.15-41CD52?style=plastic&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-2.32-F05032?style=plastic&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=plastic&logo=linux&logoColor=white">
+</p>
