@@ -49,6 +49,7 @@
 <h3 align="left"> Languages and Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=plastic&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Django-70%25-092E20?style=plastic&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-100%25-E34F26?style=plastic&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=plastic&logo=css3&logoColor=white">
