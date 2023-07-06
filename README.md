@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/awaisyasin/awaisyasin/blob/main/Awais%20Yasin.gif)
+![MasterHead](https://github.com/awaisyasin/awaisyasin/blob/main/animation.gif)
 [![Email](https://img.shields.io/badge/Email-hello%40awaisyasin.com-D14836?style=plastic&logo=mail.ru&logoColor=white)](mailto:hello@awaisyasin.com)
 
 <h3 align="left"> Who I Am</h3>
