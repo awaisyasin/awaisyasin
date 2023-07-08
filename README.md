@@ -5,7 +5,7 @@
 
 <p align="left">Hi <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm <b>Awais Yasin</b></p>
 <p align="left">I love Python and JS seems to be my new love</p>
-<img alt="Website" src="https://img.shields.io/website?up_message=up&up_color=green&down_message=down&down_color=red&url=https%3A%2F%2Fawaisyasin.com&style=plastic&logo=internetexplorer&logoColor=white&labelColor=grey&link=awaisyasin.com">
+<img alt="Website" src="https://img.shields.io/website?up_message=up&up_color=green&down_message=down&down_color=red&url=https%3A%2F%2Fawaisyasin.com&style=plastic&logo=internetexplorer&logoColor=white&labelColor=grey&link=https://awaisyasin.com">
 <img src="https://img.shields.io/badge/Email-hello%40awaisyasin.com-D14836?style=plastic&logo=mail.ru&logoColor=white">
 
 <h3 align="left"> What I Do</h3>
